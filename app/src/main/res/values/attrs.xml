@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="toolBarView">
+        <attr name="toolbar_title_text" format="string" />
+        <attr name="toolbar_title_isShow_operate" format="integer" />
+        <attr name="toolbar_title_operate_img_src" format="reference|color" />
+    </declare-styleable>
+</resources>
